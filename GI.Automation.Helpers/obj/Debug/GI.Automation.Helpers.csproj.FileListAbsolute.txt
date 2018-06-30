@@ -1,0 +1,17 @@
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\GI.Automation.Helpers.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\GI.Automation.Helpers.pdb
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\itextsharp.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\TestExecutionDetails.exe
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\WebDriver.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\WebDriver.Support.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\itextsharp.xml
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\WebDriver.xml
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\bin\Debug\WebDriver.Support.xml
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\obj\Debug\GI.Automation.Helpers.csprojResolveAssemblyReference.cache
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\obj\Debug\GI.Automation.Helpers.csproj.CoreCompileInputs.cache
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\obj\Debug\GI.Automation.Helpers.dll
+D:\GIT\GITAutomation\GIAutomation\GI.Automation.Helpers\obj\Debug\GI.Automation.Helpers.pdb
+C:\Users\ggoyal\source\repos\NewRepo\GIAutomation\GI.Automation.Helpers\obj\Debug\GI.Automation.Helpers.csproj.CoreCompileInputs.cache

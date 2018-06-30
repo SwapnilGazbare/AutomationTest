@@ -1,0 +1,2 @@
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\GI.Automation.Helpers\obj\Debug\Automation.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\GI.Automation.Helpers\obj\Debug\Automation.Helpers.csproj.CoreCompileInputs.cache

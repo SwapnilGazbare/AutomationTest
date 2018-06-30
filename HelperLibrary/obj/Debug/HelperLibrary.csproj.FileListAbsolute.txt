@@ -1,0 +1,17 @@
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\bin\Debug\WebDriver.dll
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\bin\Debug\WebDriver.Support.dll
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\bin\Debug\WebDriver.xml
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\bin\Debug\WebDriver.Support.xml
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\Users\ggoyal\source\repos\NewRepo\AutomationTest\HelperLibrary\obj\Debug\HelperLibrary.csprojResolveAssemblyReference.cache
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\bin\Debug\WebDriver.dll
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\bin\Debug\WebDriver.xml
+C:\Users\P10267692\Downloads\AutomationTest\HelperLibrary\bin\Debug\WebDriver.Support.xml

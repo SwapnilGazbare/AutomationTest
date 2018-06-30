@@ -1,0 +1,3 @@
+C:\Users\ggoyal\source\repos\NewRepo\GIAutomation\ProductModel\CCH Integrator\GI.Automation.Repository\obj\Debug\ObjectRepository.csproj.CoreCompileInputs.cache
+C:\Users\ggoyal\source\repos\NewRepo\GIAutomation\ProductModel\CCH Integrator\GI.Automation.Repository\obj\Debug\GI.Automation.Repository.dll
+C:\Users\ggoyal\source\repos\NewRepo\GIAutomation\ProductModel\CCH Integrator\GI.Automation.Repository\obj\Debug\GI.Automation.Repository.pdb
